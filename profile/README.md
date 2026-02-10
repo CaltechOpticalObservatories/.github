@@ -4,7 +4,8 @@
 
 ## Useful resources
 [COO Home](https://sites.astro.caltech.edu/research/coo/)  
-[COO Jira](https://caltech-coo.atlassian.net)
+[COO Jira](https://caltech-coo.atlassian.net)   
+[COO Utilities](https://github.com/COO-Utilities)
 
 ## Contribution Guidelines
 
